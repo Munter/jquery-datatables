@@ -1,0 +1,18 @@
+{
+  "name": "jquery-datatables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "datatables.net": "^1.10.19",
+    "html-webpack-plugin": "^3.2.0",
+    "jquery": "^3.4.1",
+    "webpack": "^4.40.0",
+    "webpack-cli": "^3.3.8"
+  }
+}
